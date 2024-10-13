@@ -166,7 +166,9 @@ background: #404BBF;
      padding-top: 120px;
      padding-bottom: 120px;
 }
-
+.mission-subtitle-two{
+     visibility: hidden;
+}
 .mission-subtitle-three {
      font-weight: 500;
      font-size: 20px;
