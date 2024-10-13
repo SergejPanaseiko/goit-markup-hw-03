@@ -166,9 +166,6 @@ background: #404BBF;
      padding-top: 120px;
      padding-bottom: 120px;
 }
-.visually-hidden{
-     visibility: hidden;
-}
 
 .mission-subtitle-three {
      font-weight: 500;
@@ -197,7 +194,7 @@ background: #404BBF;
 /* ------------ TEAM ---------------- */
 .team {
 background: #f4f4fd;
-
+padding: 120px 0;
 }
 .team-subtitle-two {
      font-weight: 700;
