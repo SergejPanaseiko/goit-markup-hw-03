@@ -293,7 +293,8 @@ margin-bottom: 10px;
 }
 /* ---------------- FOOTER ------------------- */
 .footer {
-    background: #2e2f42;
+background: #2e2f42;
+padding: 100px 0;
 }
 
 .footer-link {
@@ -306,7 +307,8 @@ margin-bottom: 10px;
      text-transform: uppercase;
      color: #4d5ae5;
      padding-top: 100px;
-     margin-bottom: 16px;    
+     margin-bottom: 16px; 
+     display: inline-block;
 }
 .footer-logo-blue {
 color: #f4f4fd;
